@@ -1,17 +1,8 @@
-# Data Science Journey
+# 🚀 Data Science Journey
 
-This repository contains my learning notes, practice questions, and hands-on exercises while learning Data Science.
+A collection of my notes, practice exercises, and projects as I learn Data Science and Artificial Intelligence.
 
-## Skills Covered
-
-* Python
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* MySQL
-
-## Repository Structure
+## 🛠️ Skills
 
 * Python
 * NumPy
@@ -20,7 +11,27 @@ This repository contains my learning notes, practice questions, and hands-on exe
 * Seaborn
 * MySQL
 
-## Purpose
+## 🎯 Learning Roadmap
 
-To document my learning journey and track my progress in Data Science and Machine Learning.
+Data Science → Machine Learning → Deep Learning → LLMs → RAG → AI Agents
+
+## 📂 Repository
+
+```text
+Python/
+NumPy/
+Pandas/
+Matplotlib/
+Seaborn/
+MySQL/
+```
+
+## 📈 Goal
+
+Building a strong foundation in Data Science and AI through continuous learning, hands-on practice, and real-world projects.
+
+---
+
+⭐ Learning. Building. Improving.
+
 
