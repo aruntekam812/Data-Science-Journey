@@ -12,9 +12,6 @@ class cat(animal):
         animal.__init__(self,name,bread)
         self.name2 =name2
         
-        
-
-
     def bark(self):
         print(f"{self.name2} is barking")
 
